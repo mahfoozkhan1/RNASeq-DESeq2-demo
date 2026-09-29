@@ -1,0 +1,56 @@
+R version 4.6.1 (2026-06-24)
+Platform: x86_64-pc-linux-gnu
+Running under: Ubuntu 24.04.5 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 
+LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.26.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_US.UTF-8        LC_COLLATE=en_US.UTF-8    
+ [5] LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
+ [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+
+time zone: Etc/UTC
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats4    stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] org.Hs.eg.db_3.23.1         AnnotationDbi_1.74.0       
+ [3] pheatmap_1.0.13             dplyr_1.2.1                
+ [5] ggplot2_4.0.3               airway_1.32.0              
+ [7] DESeq2_1.52.0               SummarizedExperiment_1.42.0
+ [9] Biobase_2.72.0              MatrixGenerics_1.24.0      
+[11] matrixStats_1.5.0           GenomicRanges_1.64.0       
+[13] Seqinfo_1.2.0               IRanges_2.46.0             
+[15] S4Vectors_0.50.3            BiocGenerics_0.58.1        
+[17] generics_0.1.4             
+
+loaded via a namespace (and not attached):
+ [1] KEGGREST_1.52.2     gtable_0.3.6        lattice_0.23-1     
+ [4] vctrs_0.7.3         tools_4.6.1         parallel_4.6.1     
+ [7] tibble_3.3.1        RSQLite_3.53.3      blob_1.3.0         
+[10] pkgconfig_2.0.3     Matrix_1.7-6        RColorBrewer_1.1-3 
+[13] S7_0.2.2            uuid_1.2-2          lifecycle_1.0.5    
+[16] compiler_4.6.1      farver_2.1.2        Biostrings_2.80.2  
+[19] textshaping_1.0.5   repr_1.1.7          codetools_0.2-20   
+[22] htmltools_0.5.9     pillar_1.11.1       crayon_1.5.3       
+[25] BiocParallel_1.46.0 cachem_1.1.0        DelayedArray_0.38.2
+[28] abind_1.4-8         tidyselect_1.2.1    locfit_1.5-9.12    
+[31] digest_0.6.39       labeling_0.4.3      fastmap_1.2.0      
+[34] grid_4.6.1          cli_3.6.6           SparseArray_1.12.3 
+[37] magrittr_2.0.5      S4Arrays_1.12.1     base64enc_0.1-6    
+[40] IRdisplay_1.1       withr_3.0.3         scales_1.4.0       
+[43] IRkernel_1.3.2      bit64_4.8.6         httr_1.4.9         
+[46] XVector_0.52.0      bit_4.6.0           otel_0.2.0         
+[49] pbdZMQ_0.3-14       png_0.1-9           ragg_1.5.2         
+[52] memoise_2.0.1       evaluate_1.0.5      rlang_1.3.0        
+[55] Rcpp_1.1.2          glue_1.8.1          DBI_1.3.0          
+[58] BiocManager_1.30.27 jsonlite_2.0.0      R6_2.6.1           
+[61] systemfonts_1.3.2  
